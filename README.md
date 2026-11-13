@@ -1,4 +1,5 @@
 2. CUENTABANCARIA
+
 Crea la clase CuentaBancaria con los atributos privados titular y saldo. 
 
 • Constructor con el titular y el saldo inicial. El titular no puede ser nulo ni vacío y el saldo inicial no puede ser negativo. 
